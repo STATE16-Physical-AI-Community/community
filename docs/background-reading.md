@@ -23,4 +23,4 @@ Key themes:
 
 This paper can serve as broad background for community discussions.
 
-Link: [[arXiv link here]](https://arxiv.org/pdf/2606.00090)
+Link: [[arXiv]](https://arxiv.org/pdf/2606.00090)
